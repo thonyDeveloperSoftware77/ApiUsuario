@@ -1,0 +1,1 @@
+{"version":3,"file":"subscriber.js","sourceRoot":"","sources":["../../CONTROLLERS/subscriber.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;AAAA,6CAA+B;AAE/B,MAAM,UAAU,GAAG,KAAK,CAAC,YAAY,EAAE,CAAC;AAExC,UAAU,CAAC,SAAS,CAAC,iBAAiB,EAAE,CAAC,OAAO,EAAE,OAAO,EAAE,EAAE;IACzD,OAAO,CAAC,GAAG,CAAC,uCAAuC,OAAO,KAAK,OAAO,EAAE,CAAC,CAAC;AAC9E,CAAC,CAAC,CAAC"}
